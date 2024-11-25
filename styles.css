@@ -1,14 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
+    font-family: Helvetica ;
+    background-color: #c0bcbc;
+    color: #2b2b2b;
     margin: 0;
     padding: 0;
 }
 
 h1 {
     text-align: center;
-    color: #0056b3;
+    color: #ff9d00;
     margin-top: 20px;
 }
 

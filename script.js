@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('¡Bienvenido a tu página web personal!');
+    console.log('Benvingut a la meua Web Personal!');
 });
